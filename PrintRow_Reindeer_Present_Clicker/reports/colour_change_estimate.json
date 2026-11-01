@@ -1,0 +1,52 @@
+{
+ "A_head": {
+  "layers": 212,
+  "layers_with_2plus_colours": 123,
+  "estimated_filament_changes": 206,
+  "layers_per_colour": {
+   "black": 31,
+   "brown": 161,
+   "cream": 102,
+   "dark_brown": 122
+  }
+ },
+ "B_box": {
+  "layers": 150,
+  "layers_with_2plus_colours": 0,
+  "estimated_filament_changes": 2,
+  "layers_per_colour": {
+   "red": 120,
+   "white": 30
+  }
+ },
+ "D_leg_right": {
+  "layers": 35,
+  "layers_with_2plus_colours": 35,
+  "estimated_filament_changes": 35,
+  "layers_per_colour": {
+   "brown": 35,
+   "dark_brown": 35
+  }
+ },
+ "D_leg_left": {
+  "layers": 35,
+  "layers_with_2plus_colours": 35,
+  "estimated_filament_changes": 35,
+  "layers_per_colour": {
+   "brown": 35,
+   "dark_brown": 35
+  }
+ },
+ "A_head_3colour_option_eyes_in_dark_brown": {
+  "layers": 212,
+  "layers_with_2plus_colours": 123,
+  "estimated_filament_changes": 188,
+  "layers_per_colour": {
+   "brown": 161,
+   "cream": 102,
+   "dark_brown": 136
+  }
+ },
+ "D_legs_plate_total_if_two_colour": 70,
+ "note": "Estimate only. Legs printed single-colour (both parts set to one filament) = 0 changes. Cage and bow plate is single colour = 0 changes."
+}

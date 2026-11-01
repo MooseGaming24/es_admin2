@@ -1,0 +1,31 @@
+{
+  "notes": [],
+  "keepout_method": "minkowski_sum",
+  "clearance_carve_removed_mm3": {
+    "cream": 0.0,
+    "black": 0.0,
+    "dark_brown": 0.0,
+    "brown": 0.0
+  },
+  "head_volume_mm3": 17486.2,
+  "head_genus": -407,
+  "assembled_bbox_mm": {
+    "x": 46.93,
+    "y": 43.77,
+    "z": 68.39
+  },
+  "part_volumes_cm3": {
+    "A_head__cream": 0.544,
+    "A_head__black": 0.172,
+    "A_head__dark_brown": 1.214,
+    "A_head__brown": 15.556,
+    "B_box__red": 11.968,
+    "B_box__white": 3.291,
+    "C_cage__white": 1.389,
+    "C_bow__white": 0.695,
+    "D_leg_right__brown": 0.385,
+    "D_leg_right__dark_brown": 0.263,
+    "D_leg_left__brown": 0.385,
+    "D_leg_left__dark_brown": 0.263
+  }
+}

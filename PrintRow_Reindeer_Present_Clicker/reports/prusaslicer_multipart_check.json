@@ -1,0 +1,27 @@
+{
+ "head": {
+  "returncode": 0,
+  "layers": 212,
+  "tool_changes": 209,
+  "filament_used_g": "30.85, 12.73, 8.94, 3.53, 0.00, 0.00",
+  "total_filament_g": "56.06",
+  "wipe_tower_g_PrusaSlicer": "45.77"
+ },
+ "box": {
+  "returncode": -11,
+  "log_tail": "",
+  "retry_without_wipe_tower_returncode": 0,
+  "layers": 150,
+  "tool_changes": 2,
+  "filament_used_g": "0.00, 0.00, 0.00, 0.00, 11.86, 3.40",
+  "wipe_tower_g_PrusaSlicer": "n/a (tower disabled after crash)"
+ },
+ "legs": {
+  "returncode": 0,
+  "layers": 35,
+  "tool_changes": 36,
+  "filament_used_g": "4.67, 0.00, 4.47, 0.00, 0.00, 0.00",
+  "total_filament_g": "9.14",
+  "wipe_tower_g_PrusaSlicer": "7.22"
+ }
+}

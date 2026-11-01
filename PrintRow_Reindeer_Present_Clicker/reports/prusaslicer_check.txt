@@ -1,0 +1,35 @@
+== A_head_3mf_as_loaded  (input: exports/3mf/PrintRow_Reindeer_A_head_4colour.3mf)  RESULT: sliced OK
+; filament used [mm] = 3355.94
+; filament used [g] = 10.01
+; estimated printing time (normal mode) = 44m 10s
+; layers: 161
+== A_head_merged  (input: build/slice/head_merged_for_estimate.stl)  RESULT: sliced OK
+; filament used [mm] = 2848.60
+; filament used [g] = 8.50
+; estimated printing time (normal mode) = 30m 28s
+; layers: 212
+== B_box_3mf_as_loaded  (input: exports/3mf/PrintRow_Reindeer_B_box_red_white_band.3mf)  RESULT: sliced OK
+; filament used [mm] = 5121.28
+; filament used [g] = 15.27
+; estimated printing time (normal mode) = 34m 50s
+; layers: 120
+== B_box_merged  (input: build/slice/box_merged_for_estimate.stl)  RESULT: sliced OK
+; filament used [mm] = 5032.82
+; filament used [g] = 15.01
+; estimated printing time (normal mode) = 34m 2s
+; layers: 150
+== C_cage_bow  (input: exports/3mf/PrintRow_Reindeer_C_ribbon_cage_and_bow_white.3mf)  RESULT: sliced OK
+; filament used [mm] = 832.08
+; filament used [g] = 2.48
+; estimated printing time (normal mode) = 22m 51s
+; layers: 155
+== D_legs  (input: exports/3mf/PrintRow_Reindeer_D_legs.3mf)  RESULT: sliced OK
+; filament used [mm] = 560.20
+; filament used [g] = 1.67
+; estimated printing time (normal mode) = 11m 25s
+; layers: 35
+== T_test_kit  (input: exports/3mf/PrintRow_Reindeer_T_fit_and_movement_test_kit.3mf)  RESULT: sliced OK
+; filament used [mm] = 3858.32
+; filament used [g] = 11.51
+; estimated printing time (normal mode) = 43m 53s
+; layers: 56

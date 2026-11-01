@@ -1,0 +1,110 @@
+{
+ "06_cutaway_rest.png": {
+  "Moving head (only moving part)": [
+   833.3,
+   500.0
+  ],
+  "Keycap-style socket on the switch stem": [
+   733.3,
+   811.7
+  ],
+  "MX-compatible switch (type unconfirmed)": [
+   808.3,
+   891.7
+  ],
+  "14.0 mm plate, 1.5 mm thick (switch clips)": [
+   856.7,
+   956.7
+  ],
+  "Clip-relief pocket / pins": [
+   841.7,
+   1066.7
+  ],
+  "Fixed leg (snaps into the rim)": [
+   375.0,
+   725.0
+  ],
+  "Present box (fixed base)": [
+   1015.0,
+   1166.7
+  ],
+  "Ribbon cage (fixed)": [
+   1050.0,
+   866.7
+  ],
+  ">= 1.0 mm gap to box, cage & legs": [
+   490.0,
+   741.7
+  ]
+ },
+ "07_cutaway_pressed.png": {
+  "Head pressed 4.0 mm (full MX travel)": [
+   833.3,
+   566.7
+  ],
+  "Cavity roof 1.6 mm above housing": [
+   808.3,
+   823.3
+  ],
+  "Head bottom 3.0 mm above plate": [
+   880.0,
+   900.0
+  ],
+  "Boss enters switch top (like a keycap)": [
+   733.3,
+   866.7
+  ],
+  "Still >= 1.0 mm from box & legs": [
+   490.0,
+   808.3
+  ]
+ },
+ "09_cutaway_leg_snap.png": {
+  "Split snap tab with barbs (on leg)": [
+   475.8,
+   840.0
+  ],
+  "Slot + undercut in thickened rim pad": [
+   510.0,
+   916.7
+  ],
+  "Leg seats on rim top and front face": [
+   433.3,
+   766.7
+  ],
+  "Hoof (dark brown)": [
+   341.7,
+   883.3
+  ],
+  "Head never reaches the leg (>= 1.5 mm)": [
+   550.0,
+   666.7
+  ]
+ },
+ "08_exploded.png": {
+  "Head (brown/cream/dark brown/black) - moves": [
+   674.9,
+   310.2
+  ],
+  "MX-compatible switch": [
+   675.9,
+   618.3
+  ],
+  "Present box (red, white band)": [
+   686.1,
+   829.4
+  ],
+  "Fixed legs (snap into rim pads)": [
+   534.4,
+   681.3
+  ],
+  "Bow (slides onto rail, trapped by hooves)": [
+   412.1,
+   846.3
+  ],
+  "Ribbon cage (snaps over box)": [
+   1176.1,
+   780.8
+  ]
+ }
+}

@@ -1,0 +1,853 @@
+{
+ "3mf": {
+  "PrintRow_Reindeer_ASSEMBLY_PREVIEW_not_for_printing.3mf": {
+   "lib3mf_warnings": [],
+   "objects": [
+    {
+     "name": "PREVIEW head - Brown",
+     "type": "mesh",
+     "triangles": 46522,
+     "vertices": 23257,
+     "manifold_and_oriented": true
+    },
+    {
+     "name": "PREVIEW head - Cream",
+     "type": "mesh",
+     "triangles": 12814,
+     "vertices": 6417,
+     "manifold_and_oriented": true
+    },
+    {
+     "name": "PREVIEW head - Dark brown",
+     "type": "mesh",
+     "triangles": 71772,
+     "vertices": 35892,
+     "manifold_and_oriented": true
+    },
+    {
+     "name": "PREVIEW head - Black",
+     "type": "mesh",
+     "triangles": 5364,
+     "vertices": 2686,
+     "manifold_and_oriented": true
+    },
+    {
+     "name": "PREVIEW box - Red",
+     "type": "mesh",
+     "triangles": 13004,
+     "vertices": 6502,
+     "manifold_and_oriented": true
+    },
+    {
+     "name": "PREVIEW box - White",
+     "type": "mesh",
+     "triangles": 12780,
+     "vertices": 6390,
+     "manifold_and_oriented": true
+    },
+    {
+     "name": "PREVIEW cage - White",
+     "type": "mesh",
+     "triangles": 628,
+     "vertices": 314,
+     "manifold_and_oriented": true
+    },
+    {
+     "name": "PREVIEW bow - White",
+     "type": "mesh",
+     "triangles": 8178,
+     "vertices": 4091,
+     "manifold_and_oriented": true
+    },
+    {
+     "name": "PREVIEW leg right - Brown",
+     "type": "mesh",
+     "triangles": 5854,
+     "vertices": 2929,
+     "manifold_and_oriented": true
+    },
+    {
+     "name": "PREVIEW leg right - Dark brown",
+     "type": "mesh",
+     "triangles": 3428,
+     "vertices": 1716,
+     "manifold_and_oriented": true
+    },
+    {
+     "name": "PREVIEW leg left - Brown",
+     "type": "mesh",
+     "triangles": 6096,
+     "vertices": 3050,
+     "manifold_and_oriented": true
+    },
+    {
+     "name": "PREVIEW leg left - Dark brown",
+     "type": "mesh",
+     "triangles": 3388,
+     "vertices": 1696,
+     "manifold_and_oriented": true
+    },
+    {
+     "name": "PREVIEW head",
+     "type": "components",
+     "components": 4
+    },
+    {
+     "name": "PREVIEW box",
+     "type": "components",
+     "components": 2
+    },
+    {
+     "name": "PREVIEW cage",
+     "type": "components",
+     "components": 1
+    },
+    {
+     "name": "PREVIEW bow",
+     "type": "components",
+     "components": 1
+    },
+    {
+     "name": "PREVIEW leg right",
+     "type": "components",
+     "components": 2
+    },
+    {
+     "name": "PREVIEW leg left",
+     "type": "components",
+     "components": 2
+    }
+   ],
+   "build_items": 6,
+   "triangles_total": 189828,
+   "all_meshes_manifold": true,
+   "trimesh_geometries": 12,
+   "trimesh_total_volume_mm3": 36124.6,
+   "trimesh_bounds": [
+    [
+     104.54,
+     103.58,
+     0.0
+    ],
+    [
+     151.46,
+     147.35,
+     68.39
+    ]
+   ],
+   "has_geometry": true
+  },
+  "PrintRow_Reindeer_A_head_4colour.3mf": {
+   "lib3mf_warnings": [],
+   "objects": [
+    {
+     "name": "Reindeer head (moving) - Black",
+     "type": "mesh",
+     "triangles": 5364,
+     "vertices": 2686,
+     "manifold_and_oriented": true
+    },
+    {
+     "name": "Reindeer head (moving) - Brown",
+     "type": "mesh",
+     "triangles": 46522,
+     "vertices": 23257,
+     "manifold_and_oriented": true
+    },
+    {
+     "name": "Reindeer head (moving) - Cream",
+     "type": "mesh",
+     "triangles": 12814,
+     "vertices": 6417,
+     "manifold_and_oriented": true
+    },
+    {
+     "name": "Reindeer head (moving) - Dark brown",
+     "type": "mesh",
+     "triangles": 71772,
+     "vertices": 35892,
+     "manifold_and_oriented": true
+    },
+    {
+     "name": "Reindeer head (moving)",
+     "type": "components",
+     "components": 4
+    }
+   ],
+   "build_items": 1,
+   "triangles_total": 136472,
+   "all_meshes_manifold": true,
+   "trimesh_geometries": 4,
+   "trimesh_total_volume_mm3": 17486.2,
+   "trimesh_bounds": [
+    [
+     104.54,
+     111.75,
+     0.0
+    ],
+    [
+     151.46,
+     144.25,
+     42.39
+    ]
+   ],
+   "has_geometry": true
+  },
+  "PrintRow_Reindeer_B_box_red_white_band.3mf": {
+   "lib3mf_warnings": [],
+   "objects": [
+    {
+     "name": "Present box (red, white band) - Red",
+     "type": "mesh",
+     "triangles": 13004,
+     "vertices": 6502,
+     "manifold_and_oriented": true
+    },
+    {
+     "name": "Present box (red, white band) - White",
+     "type": "mesh",
+     "triangles": 12780,
+     "vertices": 6390,
+     "manifold_and_oriented": true
+    },
+    {
+     "name": "Present box (red, white band)",
+     "type": "components",
+     "components": 2
+    }
+   ],
+   "build_items": 1,
+   "triangles_total": 25784,
+   "all_meshes_manifold": true,
+   "trimesh_geometries": 2,
+   "trimesh_total_volume_mm3": 15258.5,
+   "trimesh_bounds": [
+    [
+     108.65,
+     108.65,
+     0.0
+    ],
+    [
+     147.35,
+     147.35,
+     30.0
+    ]
+   ],
+   "has_geometry": true
+  },
+  "PrintRow_Reindeer_C_ribbon_cage_and_bow_white.3mf": {
+   "lib3mf_warnings": [],
+   "objects": [
+    {
+     "name": "Ribbon cage (white)",
+     "type": "mesh",
+     "triangles": 628,
+     "vertices": 314,
+     "manifold_and_oriented": true
+    },
+    {
+     "name": "Bow (white)",
+     "type": "mesh",
+     "triangles": 8178,
+     "vertices": 4091,
+     "manifold_and_oriented": true
+    }
+   ],
+   "build_items": 2,
+   "triangles_total": 8806,
+   "all_meshes_manifold": true,
+   "trimesh_geometries": 2,
+   "trimesh_total_volume_mm3": 2083.9,
+   "trimesh_bounds": [
+    [
+     108.65,
+     90.55,
+     0.0
+    ],
+    [
+     147.35,
+     165.45,
+     31.0
+    ]
+   ],
+   "has_geometry": true
+  },
+  "PrintRow_Reindeer_D_legs.3mf": {
+   "lib3mf_warnings": [],
+   "objects": [
+    {
+     "name": "Leg right (fixed) - Brown",
+     "type": "mesh",
+     "triangles": 5854,
+     "vertices": 2929,
+     "manifold_and_oriented": true
+    },
+    {
+     "name": "Leg right (fixed) - Dark brown",
+     "type": "mesh",
+     "triangles": 3428,
+     "vertices": 1716,
+     "manifold_and_oriented": true
+    },
+    {
+     "name": "Leg left (fixed) - Brown",
+     "type": "mesh",
+     "triangles": 6096,
+     "vertices": 3050,
+     "manifold_and_oriented": true
+    },
+    {
+     "name": "Leg left (fixed) - Dark brown",
+     "type": "mesh",
+     "triangles": 3388,
+     "vertices": 1696,
+     "manifold_and_oriented": true
+    },
+    {
+     "name": "Leg right (fixed)",
+     "type": "components",
+     "components": 2
+    },
+    {
+     "name": "Leg left (fixed)",
+     "type": "components",
+     "components": 2
+    }
+   ],
+   "build_items": 2,
+   "triangles_total": 18766,
+   "all_meshes_manifold": true,
+   "trimesh_geometries": 4,
+   "trimesh_total_volume_mm3": 1296.0,
+   "trimesh_bounds": [
+    [
+     108.87,
+     122.5,
+     0.0
+    ],
+    [
+     147.13,
+     133.5,
+     7.0
+    ]
+   ],
+   "has_geometry": true
+  },
+  "PrintRow_Reindeer_T_fit_and_movement_test_kit.3mf": {
+   "lib3mf_warnings": [],
+   "objects": [
+    {
+     "name": "TEST switch coupon",
+     "type": "mesh",
+     "triangles": 1608,
+     "vertices": 804,
+     "manifold_and_oriented": true
+    },
+    {
+     "name": "TEST cap",
+     "type": "mesh",
+     "triangles": 10450,
+     "vertices": 5227,
+     "manifold_and_oriented": true
+    },
+    {
+     "name": "TEST leg slot block",
+     "type": "mesh",
+     "triangles": 1070,
+     "vertices": 537,
+     "manifold_and_oriented": true
+    },
+    {
+     "name": "TEST leg right single colour",
+     "type": "mesh",
+     "triangles": 9084,
+     "vertices": 4544,
+     "manifold_and_oriented": true
+    },
+    {
+     "name": "TEST socket gauge 1 w1.25",
+     "type": "mesh",
+     "triangles": 9500,
+     "vertices": 4752,
+     "manifold_and_oriented": true
+    },
+    {
+     "name": "TEST socket gauge 2 w1.35",
+     "type": "mesh",
+     "triangles": 9536,
+     "vertices": 4770,
+     "manifold_and_oriented": true
+    },
+    {
+     "name": "TEST socket gauge 3 w1.45",
+     "type": "mesh",
+     "triangles": 9572,
+     "vertices": 4788,
+     "manifold_and_oriented": true
+    },
+    {
+     "name": "TEST plate gauge 1 13.90",
+     "type": "mesh",
+     "triangles": 560,
+     "vertices": 280,
+     "manifold_and_oriented": true
+    },
+    {
+     "name": "TEST plate gauge 2 14.00",
+     "type": "mesh",
+     "triangles": 576,
+     "vertices": 288,
+     "manifold_and_oriented": true
+    },
+    {
+     "name": "TEST plate gauge 3 14.10",
+     "type": "mesh",
+     "triangles": 592,
+     "vertices": 296,
+     "manifold_and_oriented": true
+    },
+    {
+     "name": "TEST plate gauge 4 14.20",
+     "type": "mesh",
+     "triangles": 608,
+     "vertices": 304,
+     "manifold_and_oriented": true
+    }
+   ],
+   "build_items": 11,
+   "triangles_total": 53156,
+   "all_meshes_manifold": true,
+   "trimesh_geometries": 11,
+   "trimesh_total_volume_mm3": 11374.6,
+   "trimesh_bounds": [
+    [
+     91.5,
+     88.5,
+     0.0
+    ],
+    [
+     184.5,
+     174.5,
+     11.2
+    ]
+   ],
+   "has_geometry": true
+  }
+ },
+ "stl": {
+  "product/A_head__black.stl": {
+   "watertight": true,
+   "winding_consistent": true,
+   "volume_mm3": 171.92,
+   "triangles": 5364,
+   "bounds": [
+    [
+     -8.19,
+     -13.52,
+     14.73
+    ],
+    [
+     8.19,
+     -7.62,
+     21.03
+    ]
+   ]
+  },
+  "product/A_head__brown.stl": {
+   "watertight": true,
+   "winding_consistent": true,
+   "volume_mm3": 15556.22,
+   "triangles": 46522,
+   "bounds": [
+    [
+     -23.46,
+     -13.89,
+     0.0
+    ],
+    [
+     23.46,
+     15.06,
+     32.29
+    ]
+   ]
+  },
+  "product/A_head__cream.stl": {
+   "watertight": true,
+   "winding_consistent": true,
+   "volume_mm3": 544.35,
+   "triangles": 12814,
+   "bounds": [
+    [
+     -21.04,
+     -16.4,
+     7.0
+    ],
+    [
+     21.04,
+     1.16,
+     29.99
+    ]
+   ]
+  },
+  "product/A_head__dark_brown.stl": {
+   "watertight": true,
+   "winding_consistent": true,
+   "volume_mm3": 1213.73,
+   "triangles": 71772,
+   "bounds": [
+    [
+     -14.28,
+     -17.45,
+     11.4
+    ],
+    [
+     14.28,
+     4.58,
+     42.39
+    ]
+   ]
+  },
+  "product/B_box__red.stl": {
+   "watertight": true,
+   "winding_consistent": true,
+   "volume_mm3": 11967.58,
+   "triangles": 13004,
+   "bounds": [
+    [
+     -18.0,
+     -18.0,
+     0.0
+    ],
+    [
+     18.0,
+     18.0,
+     30.0
+    ]
+   ]
+  },
+  "product/B_box__white.stl": {
+   "watertight": true,
+   "winding_consistent": true,
+   "volume_mm3": 3290.91,
+   "triangles": 12780,
+   "bounds": [
+    [
+     -19.35,
+     -19.35,
+     10.5
+    ],
+    [
+     19.35,
+     19.35,
+     16.5
+    ]
+   ]
+  },
+  "product/C_bow__white.stl": {
+   "watertight": true,
+   "winding_consistent": true,
+   "volume_mm3": 694.77,
+   "triangles": 8178,
+   "bounds": [
+    [
+     -13.31,
+     -55.54,
+     0.0
+    ],
+    [
+     13.31,
+     -39.08,
+     5.0
+    ]
+   ]
+  },
+  "product/C_cage__white.stl": {
+   "watertight": true,
+   "winding_consistent": true,
+   "volume_mm3": 1389.09,
+   "triangles": 628,
+   "bounds": [
+    [
+     -19.35,
+     -20.85,
+     0.0
+    ],
+    [
+     19.35,
+     19.35,
+     31.0
+    ]
+   ]
+  },
+  "product/D_leg_left__brown.stl": {
+   "watertight": true,
+   "winding_consistent": true,
+   "volume_mm3": 384.8,
+   "triangles": 6096,
+   "bounds": [
+    [
+     -18.16,
+     -4.58,
+     0.0
+    ],
+    [
+     -4.87,
+     5.5,
+     7.0
+    ]
+   ]
+  },
+  "product/D_leg_left__dark_brown.stl": {
+   "watertight": true,
+   "winding_consistent": true,
+   "volume_mm3": 263.22,
+   "triangles": 3388,
+   "bounds": [
+    [
+     -19.13,
+     -5.5,
+     0.0
+    ],
+    [
+     -12.03,
+     0.72,
+     7.0
+    ]
+   ]
+  },
+  "product/D_leg_right__brown.stl": {
+   "watertight": true,
+   "winding_consistent": true,
+   "volume_mm3": 384.8,
+   "triangles": 5854,
+   "bounds": [
+    [
+     4.87,
+     -4.58,
+     0.0
+    ],
+    [
+     18.16,
+     5.5,
+     7.0
+    ]
+   ]
+  },
+  "product/D_leg_right__dark_brown.stl": {
+   "watertight": true,
+   "winding_consistent": true,
+   "volume_mm3": 263.22,
+   "triangles": 3428,
+   "bounds": [
+    [
+     12.03,
+     -5.5,
+     0.0
+    ],
+    [
+     19.13,
+     0.72,
+     7.0
+    ]
+   ]
+  },
+  "test_kit/test_cap.stl": {
+   "watertight": true,
+   "winding_consistent": true,
+   "volume_mm3": 4270.03,
+   "triangles": 10450,
+   "bounds": [
+    [
+     -14.0,
+     -14.0,
+     0.0
+    ],
+    [
+     14.0,
+     14.0,
+     9.2
+    ]
+   ]
+  },
+  "test_kit/test_leg_right_single_colour.stl": {
+   "watertight": true,
+   "winding_consistent": true,
+   "volume_mm3": 648.02,
+   "triangles": 9084,
+   "bounds": [
+    [
+     4.87,
+     -5.5,
+     0.0
+    ],
+    [
+     19.13,
+     5.5,
+     7.0
+    ]
+   ]
+  },
+  "test_kit/test_leg_slot_block.stl": {
+   "watertight": true,
+   "winding_consistent": true,
+   "volume_mm3": 350.24,
+   "triangles": 1070,
+   "bounds": [
+    [
+     5.6,
+     -18.0,
+     0.0
+    ],
+    [
+     14.9,
+     -12.9,
+     11.0
+    ]
+   ]
+  },
+  "test_kit/test_plate_gauge_1_13.90.stl": {
+   "watertight": true,
+   "winding_consistent": true,
+   "volume_mm3": 365.03,
+   "triangles": 560,
+   "bounds": [
+    [
+     -10.5,
+     -10.5,
+     0.0
+    ],
+    [
+     10.5,
+     10.5,
+     1.5
+    ]
+   ]
+  },
+  "test_kit/test_plate_gauge_2_14.00.stl": {
+   "watertight": true,
+   "winding_consistent": true,
+   "volume_mm3": 359.34,
+   "triangles": 576,
+   "bounds": [
+    [
+     -10.5,
+     -10.5,
+     0.0
+    ],
+    [
+     10.5,
+     10.5,
+     1.5
+    ]
+   ]
+  },
+  "test_kit/test_plate_gauge_3_14.10.stl": {
+   "watertight": true,
+   "winding_consistent": true,
+   "volume_mm3": 353.63,
+   "triangles": 592,
+   "bounds": [
+    [
+     -10.5,
+     -10.5,
+     0.0
+    ],
+    [
+     10.5,
+     10.5,
+     1.5
+    ]
+   ]
+  },
+  "test_kit/test_plate_gauge_4_14.20.stl": {
+   "watertight": true,
+   "winding_consistent": true,
+   "volume_mm3": 347.88,
+   "triangles": 608,
+   "bounds": [
+    [
+     -10.5,
+     -10.5,
+     0.0
+    ],
+    [
+     10.5,
+     10.5,
+     1.5
+    ]
+   ]
+  },
+  "test_kit/test_socket_gauge_1_w1.25.stl": {
+   "watertight": true,
+   "winding_consistent": true,
+   "volume_mm3": 721.47,
+   "triangles": 9500,
+   "bounds": [
+    [
+     -5.5,
+     -5.5,
+     0.0
+    ],
+    [
+     5.5,
+     5.5,
+     8.0
+    ]
+   ]
+  },
+  "test_kit/test_socket_gauge_2_w1.35.stl": {
+   "watertight": true,
+   "winding_consistent": true,
+   "volume_mm3": 718.95,
+   "triangles": 9536,
+   "bounds": [
+    [
+     -5.5,
+     -5.5,
+     0.0
+    ],
+    [
+     5.5,
+     5.5,
+     8.0
+    ]
+   ]
+  },
+  "test_kit/test_socket_gauge_3_w1.45.stl": {
+   "watertight": true,
+   "winding_consistent": true,
+   "volume_mm3": 716.48,
+   "triangles": 9572,
+   "bounds": [
+    [
+     -5.5,
+     -5.5,
+     0.0
+    ],
+    [
+     5.5,
+     5.5,
+     8.0
+    ]
+   ]
+  },
+  "test_kit/test_switch_coupon.stl": {
+   "watertight": true,
+   "winding_consistent": true,
+   "volume_mm3": 2523.52,
+   "triangles": 1608,
+   "bounds": [
+    [
+     -13.8,
+     -13.8,
+     0.0
+    ],
+    [
+     13.8,
+     13.8,
+     11.2
+    ]
+   ]
+  }
+ }
+}
